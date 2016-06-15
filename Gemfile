@@ -50,4 +50,6 @@ gem 'bootstrap_form'
 gem 'slim-rails'
 
 gem 'devise'
+gem 'omniauth'
+gem 'omniauth-facebook'
 
